@@ -50,3 +50,21 @@ A static website hosted on Amazon S3 that can be accessed through its website en
 ## 8. Project Status
 
 Documentation and implementation details for the S3 static website hosting project.
+
+## 9. Deployment Result
+
+The static website was successfully hosted using Amazon S3.
+
+- Created an S3 bucket in the Mumbai region.
+- Uploaded HTML and CSS files.
+- Enabled static website hosting.
+- Configured public access and bucket policy.
+- Accessed the website using the S3 website endpoint.
+
+## 10. Live Website
+
+http://tirthana-s3-static-website-2026.s3-website-ap-southeast-1.amazonaws.com/
+
+## 11. Skills Demonstrated
+
+Amazon S3 | AWS Management Console | HTML | CSS | Static Website Hosting | Bucket Policy
